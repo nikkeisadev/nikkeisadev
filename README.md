@@ -1,5 +1,5 @@
 # nikkeisadev
-![Discord_Banner-removebg-preview-removebg-preview](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/4f610f84-57ab-49b4-84d8-44bf917211c9)
+![Untitled](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/0d240cbe-eb89-4678-88ba-58af255b7bfc)
 
 Hi! I'm Nikke! 
 I'm usually doin' Game Development, and/or Desktop Application development! 🍜
