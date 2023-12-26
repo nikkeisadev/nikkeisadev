@@ -1,5 +1,5 @@
 # nikkeisadev
-![nikkeisadev_dark_extended](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/14bc598e-5934-40a1-b68b-feeb66e44f54)
+![nikkeisadev_logo](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/10521508-a03e-430f-a0e5-a838fb27064f)
 
 Hi! I'm Nikke! 
 I'm usually doin' Game Development, and/or Desktop Application development! 🍜
