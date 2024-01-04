@@ -1,5 +1,4 @@
 # nikkeisadev
-![Untitled](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/0d240cbe-eb89-4678-88ba-58af255b7bfc)
 
 # Hi! I'm Nikke! I'm usually doin' Game Development, and/or Desktop Application development! 🍜
 ### 🔰 About Me:
