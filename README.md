@@ -1,6 +1,5 @@
 # nikkeisadev
-<img src="https://pngimg.com/d/welcome_PNG37.png" alt="Welcome PNG transparent image download, size: 574x204px"/>![image](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/7504aae6-5139-42cf-889f-7cd2c6f7a7d3)
-
+![image](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/7504aae6-5139-42cf-889f-7cd2c6f7a7d3)
 
 # Hi! I'm Nikke! I'm usually doin' Game Development, and/or Desktop Application development! 🍜
 ### 🔰 About Me:
