@@ -1,4 +1,4 @@
-![image](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/7504aae6-5139-42cf-889f-7cd2c6f7a7d3)
+![Welcome (2)](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/b7040a13-fc55-4cfa-8250-39e7a6deb305)
 
 ## Hi! I'm Nikke! A Desktop and Mobile application developer! 🍜
 Many thanks to frogpati for making my logo! ❤️
