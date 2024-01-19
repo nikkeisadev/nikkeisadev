@@ -1,7 +1,6 @@
-# nikkeisadev
 ![image](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/7504aae6-5139-42cf-889f-7cd2c6f7a7d3)
 
-# Hi! I'm Nikke! A Desktop and Mobile application developer! 🍜
+## Hi! I'm Nikke! A Desktop and Mobile application developer! 🍜
 Many thanks to frogpati for making my logo! ❤️
 ### 💻 About Me:
 - I'm a 16 years old student in Debrecen (Hungary). 📚
