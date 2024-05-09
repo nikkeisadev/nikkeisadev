@@ -4,16 +4,15 @@
 Many thanks to frogpati for making my logo! ❤️
 ### 💻 About Me:
 - I'm a 16 years old student in Debrecen (Hungary). 📚
-- I can't work in groups, only alone. 📌
+- I can't work in groups, only alone. 🤦‍♂️
 - I'm usually working by myself 💻
 - I have no life 🎮
-- I'm a beginer TouHou fan 🌸
 > Supported langs.: Python, C#, Ruby, Dart. 💎
 ### 💬 Contact:
 My Contact: Email📧: notnikkecrd@gmail.com
-You can DM me anytime. 📮
+You can DM me anytime on my Discord: notnikkecrd. 📮
 ### 🔴 YouTube:
 My Channel: https://www.youtube.com/channel/UCZcCF6wOy_HM5le8p6tHdQw
 ### 🔕 Contributions:
-I **don't** accept Pull Requests from others, only by team mates. 📌
+I **don't** accept Pull Requests from others, only by team mates (Yeah, I do work with others sometimes). 📌
 Every pull req. will be denied. 
