@@ -9,7 +9,8 @@ Many thanks to frogpati for making my logo! ❤️
 - I have no life 🎮
 - I'm coding in: Python, C#, Dart. 👨‍💻
 *I'm also doin' webdevelopment sometimes (HTML is a programing language, trust me 🤝)*
-![](https://komarev.com/ghpvc/?username=nikkeisadev&color=grey)
+
+![](https://komarev.com/ghpvc/?username=nikkeisadev&color=grey&for-the-badge)
 ### 💬 Contact:
 My Contact: Email📧: notnikkecrd@gmail.com
 You can DM me anytime on my Discord: notnikkecrd. 📮
