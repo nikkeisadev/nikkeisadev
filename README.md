@@ -7,7 +7,8 @@ Many thanks to frogpati for making my logo! ❤️
 - I can't work in groups, only alone. 🤦‍♂️
 - I'm usually working by myself 💻
 - I have no life 🎮
-> Supported langs.: Python, C#, Ruby, Dart. 💎
+- I'm coding in: Python, C#, Dart. 👨‍💻
+*I'm also doin' webdevelopment sometimes (HTML is a programing language, trust me 🤝)*
 ### 💬 Contact:
 My Contact: Email📧: notnikkecrd@gmail.com
 You can DM me anytime on my Discord: notnikkecrd. 📮
