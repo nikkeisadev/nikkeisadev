@@ -17,4 +17,4 @@ My Channel: https://www.youtube.com/channel/UCZcCF6wOy_HM5le8p6tHdQw
 ### 🔕 Contributions:
 I **don't** accept Pull Requests from others, only by team mates (Yeah, I do work with others sometimes). 📌
 Every pull req. will be denied. 
-![image](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/2bb646e7-60f0-4ca2-b592-6fa01e1c3408)
+![github-snake](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/1cf3abe4-34c2-4c10-875b-a2de9d4b78f3)
