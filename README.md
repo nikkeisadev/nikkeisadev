@@ -1,5 +1,6 @@
 ![nikkeisadev_gitbat_brand](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/8d2ddea1-6768-404e-973d-9b8d25a39f89)
-This little guy is bashBat, my iconic bat creature based on github's logo 👆
+
+### This little guy is bashBat, my iconic bat creature based on github's logo 👆
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikkeisadev&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 ## Hi! I'm Nikke! A Desktop and Mobile application developer! 🍜
 Many thanks to frogpati for making my logo! ❤️
