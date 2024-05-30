@@ -3,7 +3,7 @@
 ## Hi! I'm Nikke! A Desktop and Mobile application developer! 🍜
 Many thanks to frogpati for making my logo! ❤️
 ### 💻 About Me:
-- I'm a 16 years old student in Debrecen (Hungary). 📚
+- I'm a 17 years old student in Debrecen (Hungary). 📚
 - I can't work in groups, only alone. 🤦‍♂️
 - I'm usually working by myself 💻
 - I have no life 🎮
