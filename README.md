@@ -3,7 +3,7 @@
 ### This little guy is bashBat, my iconic bat creature based on github's logo 👆
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikkeisadev&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 ## Hi! I'm Nikke! A Desktop and Mobile application developer! 🍜
-Many thanks to frogpati for making my logo! ❤️
+
 ### 💻 About Me:
 - I'm a 17 years old student in Debrecen (Hungary). 📚
 - I can't work in groups, only alone. 🤦‍♂️
