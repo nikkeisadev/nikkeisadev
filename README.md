@@ -13,4 +13,4 @@ My Email address 📧: notnikkecrd@gmail.com
 ### 🔴 YouTube:
 My Channel: https://www.youtube.com/channel/UCZcCF6wOy_HM5le8p6tHdQw
 
-![github-snake](https://github.com/nikkeisadev/nikkeisadev/asset
+![github-snake](https://github.com/nikkeisadev/nikkeisadev/assets/137056695/1cf3abe4-34c2-4c10-875b-a2de9d4b78f3)
