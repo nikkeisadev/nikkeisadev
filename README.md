@@ -10,8 +10,7 @@ Many thanks to frogpati for making my logo! ❤️
 
 ![](https://komarev.com/ghpvc/?username=nikkeisadev&color=grey&style=for-the-badge)
 ### 💬 Contact:
-My Contact: Email📧: notnikkecrd@gmail.com
-You can DM me anytime on my Discord: notnikkecrd. 📮
+My Email address 📧: notnikkecrd@gmail.com
 ### 🔴 YouTube:
 My Channel: https://www.youtube.com/channel/UCZcCF6wOy_HM5le8p6tHdQw
 ![github-snake](https://github.com/nikkeisadev/nikkeisadev/asset
